@@ -7,6 +7,6 @@ git workflow:
 3. status
 4. stage: add
 5. commit -m
-6. review: log
+6. review: log, --online, --stat
 
 7. commit --amend
