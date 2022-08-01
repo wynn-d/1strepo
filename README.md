@@ -1,6 +1,5 @@
 # README #
 
-
 git workflow:
 
 1. init
@@ -9,3 +8,5 @@ git workflow:
 4. stage: add
 5. commit -m
 6. review: log
+
+7. commit --amend
